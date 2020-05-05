@@ -1,0 +1,24 @@
+total 480
+drwxr-xr-x 2 mi mi   4096 3月  23 19:55 .
+drwxr-xr-x 6 mi mi   4096 3月  17 21:22 ..
+-rw-r--r-- 1 mi mi  12288 3月  18 07:26 .answer.swp
+-rw-r--r-- 1 mi mi     11 1月  12  2016 cookie.txt
+-rwxr-xr-x 1 mi mi  67500 1月  12  2016 ctarget
+-rw-r--r-- 1 mi mi 114413 3月  18 05:49 ctarget.s
+-rw-r--r-- 1 mi mi   2639 1月  12  2016 farm.c
+-rwxr-xr-x 1 mi mi  21623 1月  12  2016 hex2raw
+-rw-r--r-- 1 mi mi     49 3月  19 04:10 level_1
+-rw-r--r-- 1 mi mi    144 3月  19 04:09 level_1.d
+-rw-r--r-- 1 mi mi     49 3月  19 03:39 level_2
+-rw-r--r-- 1 mi mi    289 3月  19 21:37 level_2.d
+-rw-r--r-- 1 mi mi     58 3月  19 22:03 level_3
+-rw-r--r-- 1 mi mi    329 3月  19 22:04 level_3.d
+-rw-r--r-- 1 mi mi    672 3月  19 21:36 level_3.o
+-rw-r--r-- 1 mi mi  12288 3月  19 16:12 .level_3.o.swp
+-rw-r--r-- 1 mi mi    233 3月  19 21:36 level_3.s
+-rw-r--r-- 1 mi mi     73 3月  20 05:20 level_4
+-rw-r--r-- 1 mi mi    304 3月  20 05:20 level_4.d
+-rw-r--r-- 1 mi mi      0 3月  23 19:55 list1.txt
+-rw-r--r-- 1 mi mi    635 1月  12  2016 README.txt
+-rwxr-xr-x 1 mi mi  73161 1月  12  2016 rtarget
+-rw-r--r-- 1 mi mi 119984 3月  20 03:28 rtarget.s
